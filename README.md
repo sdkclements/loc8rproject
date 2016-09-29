@@ -1,0 +1,1 @@
+This Project is intended to work with getting-mean, to provide a bit of practice getting used to full-stack JS development.
